@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there I'm Gajarajan K 👋
+
+- 😍 I'm a Software Developer. Espeselly A JavaScript Lover.
+- ♥️ From a small village named Radhapuram in Tirunelveli District.
+- 🇬🇧 I'm Currently working on FOODHUB it's a FOOD Ordering Based company in UK.
+- 🚀 I have worked in here from May 6th, 2020 till Now as a Senior Software Engineer.
+- 📚 I'm currently learing about How to improve & beat myself.
+
+### Life has two rules
+### #1 Nerver Quit
+### #2 Always Remember #1
 
 <!--
 **kgrajan12/kgrajan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
